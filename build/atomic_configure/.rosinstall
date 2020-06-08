@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lars/realsense_ws/devel/setup.sh

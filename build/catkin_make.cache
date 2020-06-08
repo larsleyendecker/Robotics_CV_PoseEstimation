@@ -1,0 +1,2 @@
+geometry2/geometry2:geometry2/test_tf2:geometry2/tf2:geometry2/tf2_bullet:geometry2/tf2_eigen:geometry2/tf2_geometry_msgs:geometry2/tf2_kdl:geometry2/tf2_msgs:geometry2/tf2_py:geometry2/tf2_ros:geometry2/tf2_sensor_msgs:geometry2/tf2_tools:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/lars/realsense_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lars/realsense_ws/install -G Unix Makefiles
